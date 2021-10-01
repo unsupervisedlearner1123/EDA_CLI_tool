@@ -1,2 +1,2 @@
 # TestClick1
-This is a simple CLI tool built with Click, that returns the summary statistics of any dataframe.
+This is a simple CLI tool built with Click, that reads in a dataset from a raw URL, and returns its summary statistics.
